@@ -1,8 +1,8 @@
 # Project 001 — Contract Management Intelligence System
 
-**Power BI Service | Power Query (M) | Data Quality | Interactive Executive Reporting**
+![Contract Management Intelligence Dashboard](dashboard-final.png)
 
-![Completed dashboard](screenshots/dashboard-final.png)
+**Power BI Service | Power Query (M) | Data Quality | Interactive Executive Reporting**
 
 ## Project overview
 
