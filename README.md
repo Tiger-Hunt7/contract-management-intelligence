@@ -2,6 +2,10 @@
 
 ![Contract Management Intelligence Dashboard](dashboard-final.png)
 
+[**▶ Open the interactive Power BI dashboard**](https://app.powerbi.com/view?r=eyJrIjoiYzg4ZTcyOWItNmJlZC00ZWVlLTg5YzAtYzkzM2ZlOGExZmVmIiwidCI6IjQ4MWZjNDFmLTg2MTgtNDRjYi1hYTdlLTQ5NDdkN2U2NjVhMiIsImMiOjZ9)
+
+Explore the report live using its department, contract status, contract type, and contract manager filters.
+
 **Power BI Service | Power Query (M) | Data Quality | Interactive Executive Reporting**
 
 ## Project overview
